@@ -5,9 +5,5 @@ Add your code under assignment1/code.c
 
 ## Assignment 2
 Write a program to print the following pattern:  
-*  
-**  
-\*\*\*  
-\*\*\*\*  
 \*\*\*\*\*  
 Add your code under assignment2/code.c
